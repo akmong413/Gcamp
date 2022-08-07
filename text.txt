@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 a
 
+hello bro
+=======
+im comming soon
+>>>>>>> newBranch
